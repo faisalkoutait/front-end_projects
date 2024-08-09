@@ -126,12 +126,9 @@ a {
   border-radius: 3px;
 }
 
-.ul1 li a:hover {
-  color: aliceblue;
-}
-
 .ul1 li:hover {
-  background-color: rgb(80, 151, 80);
+  background-color: rgb(87, 167, 87);
+  color: aliceblue;
 }
 
 .btn:hover {
