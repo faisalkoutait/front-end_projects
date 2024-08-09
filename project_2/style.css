@@ -1,41 +1,49 @@
-body{
+body {
     background-color: rgb(92, 186, 245);
 }
-h1{
+
+h1 {
     color: aliceblue;
-    background-color:  rgb(24, 95, 210);
+    background-color: rgb(24, 95, 210);
     width: 220px;
     border-radius: 5px;
 }
-.a{
-   background-color: rgb(92, 168, 235);
-   border:solid ;
-   border-radius: 5px;
+
+.a {
+    background-color: rgb(92, 168, 235);
+    border: solid;
+    border-radius: 5px;
     width: 300px;
     height: 363px;
 }
-.b{
+
+.b {
     height: 200px;
     width: 300px;
 }
-.c{
+
+.c {
     background-color: aliceblue;
 
 }
-.d{
+
+.d {
     color: rgb(24, 95, 210);
 }
-.e{
+
+.e {
     color: rgb(0, 0, 0);
 }
-.f{
+
+.f {
     width: 300px;
     height: 273px;
 }
-.g{
+
+.g {
     background-color: rgb(92, 168, 235);
-    border:solid ;
-     width: 300px;
-     height: 230px;  
-     border-radius: 5px;
+    border: solid;
+    width: 300px;
+    height: 230px;
+    border-radius: 5px;
 }

@@ -1,7 +1,8 @@
-*{
+* {
     margin: 0px;
 }
-.div_1{
+
+.div_1 {
     background-color: rgb(132, 146, 159);
     float: left;
     width: 250px;
@@ -9,63 +10,77 @@
     color: white;
 
 }
-.div_2{
+
+.div_2 {
     color: black;
     float: left;
 }
-.div_3{
+
+.div_3 {
     margin-left: 70px;
     margin-top: 20px;
 }
-.a{
+
+.a {
     text-align: center;
     margin-top: 30px;
     margin-bottom: 10px;
 }
-.Add1{
-       text-align: center;
-       border:1.5px solid black;
-       border-radius: 5px;
-       width: 920px;
+
+.Add1 {
+    text-align: center;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    width: 920px;
 }
-.btn{
+
+.btn {
     height: 30px;
     width: 140px;
-    background-color:rgb(132, 146, 159);
+    background-color: rgb(132, 146, 159);
 
     border: none;
     color: aliceblue;
     border-radius: 3px;
     margin-top: 20px;
 }
-.div_4{
-   margin-left: 45%;
-   margin-top: 30px;
+
+.div_4 {
+    margin-left: 45%;
+    margin-top: 30px;
 }
-.inp{
+
+.inp {
     width: 300px;
     height: 25px;
 }
-.in1{
-margin: 10px;
+
+.in1 {
+    margin: 10px;
 }
-.z{
+
+.z {
     color: azure;
 }
-.x{
+
+.x {
     margin-bottom: 5px;
 }
-.hov1:hover{
-  font-size: 20px;
-  background-color: rgb(201, 211, 219);
+
+.hov1:hover {
+    font-size: 20px;
+    background-color: rgb(201, 211, 219);
 }
-.Add1:hover{
-    background-color:rgb(132, 146, 159) ;
+
+.Add1:hover {
+    background-color: rgb(132, 146, 159);
 }
-.in2:hover{
-background-color: rgb(224, 229, 233);
+
+.in2:hover {
+    background-color: rgb(224, 229, 233);
 }
-.x{
-    background-color: rgb(201, 211, 219) ;
-    font-size:20px ;
+
+.x {
+    background-color: rgb(201, 211, 219);
+    font-size: 20px;
 }
