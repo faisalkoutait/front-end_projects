@@ -15,7 +15,7 @@ body {
   width: 1050px;
   background-color: #87d68d;
   position: fixed;
-  left: 68px;
+  left: 231px;
   top: 20px;
   border-radius: 5px;
   z-index: 20;
@@ -51,7 +51,7 @@ a {
 
 .body {
   margin-top: 100px;
-  margin-left: 510px;
+  margin-left: 680px;
   font-size: 35px;
   color: black;
 }
