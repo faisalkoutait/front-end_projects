@@ -2,6 +2,7 @@
     width: 500px;
     margin: auto;
     text-align: center;
+    margin-bottom: 50px;
 }
 
 .a {
@@ -55,6 +56,7 @@
 
 .btn:hover {
     background-color: rgb(229, 234, 238);
+    color: black;
 }
 
 .a:hover {

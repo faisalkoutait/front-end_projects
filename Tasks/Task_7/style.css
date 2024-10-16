@@ -43,7 +43,7 @@ body {
 
 .card:hover {
     transform: rotatey(180deg);
-    transition: 2s;
+    transition: 1.5s;
     cursor: pointer;
 }
 
@@ -52,6 +52,7 @@ body {
     border-radius: 5px;
     border: 2px solid blue;
     text-align: center;
+    background-color: antiquewhite;
 }
 .back a{
     text-decoration: none;

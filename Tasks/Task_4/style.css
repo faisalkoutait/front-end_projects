@@ -6,7 +6,7 @@
     background-color: rgb(132, 146, 159);
     float: left;
     width: 250px;
-    height: 600px;
+    height: 640px;
     color: white;
 
 }
@@ -31,19 +31,24 @@
     text-align: center;
     border: 1.5px solid black;
     border-radius: 5px;
-    width: 920px;
+    width: 990px;
+   padding: 10px 0px;
+}
+.in2{
+    width:250px ;
+    height: 20px;
 }
 
 .btn {
     height: 30px;
-    width: 140px;
+    width: 180px;
     background-color: rgb(132, 146, 159);
-
     border: none;
     color: aliceblue;
     border-radius: 3px;
     margin-top: 20px;
 }
+
 
 .div_4 {
     margin-left: 45%;
