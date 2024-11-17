@@ -1,0 +1,101 @@
+.fixed-img {
+    height: 250px;
+    width: 100%;
+    background-image: url(../photos/landscape-8336550_1280.webp);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.cards-1:after {
+
+    position: absolute;
+    content: " ";
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    background-color: rgb(238, 63, 188);
+    opacity: 1;
+    transition: 1s;
+}
+
+.cards-1:hover::after {
+    width: 100%;
+    height: 100%;
+    opacity: .4;
+
+}
+
+.cards-1:before {
+
+    position: absolute;
+    content: " ";
+    width: 0;
+    height: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgb(238, 63, 188);
+    opacity: 1;
+    transition: 1s;
+}
+
+.cards-1:hover::before {
+    width: 100%;
+    height: 100%;
+    opacity: .4;
+
+}
+
+.thanks-cards {
+    height: 350px;
+    width: 300px;
+    background-size: cover;
+}
+
+.card-container {
+    width: 300px;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    
+    transition: .5s;
+}
+
+.card-background {
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+   
+}
+.card-container:hover{
+    transform: scale(.9,.9);
+}
+
+.card-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    
+}
+
+.profile-section1 {
+    text-align: center;
+    transition: .5s;
+}
+
+.profile-section2 {
+    padding: 15px;
+
+}
+
+.profile-section2 img {
+    width: 100px;
+    height: 100px;
+    clip-path: ellipse(35% 45% at 50% 50%);
+}
